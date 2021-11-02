@@ -7,8 +7,9 @@ It is one of my first projects I have made.
 Written in HTML + SCSS + JS
 </br>
 </br>
-<a style="color: #4fad31;" href="https://predict-me-firebase.web.app/">
-### Try now!
-<img width=250 src="https://github.com/sam-kmn/PredictMe/blob/master/Screenshots/Screenshot1.png?raw=true" style="border-radius: 1rem;" >
-</a>
+
+### Try now! 
+https://predict-me-firebase.web.app/
+<img width=330 src="https://github.com/sam-kmn/PredictMe/blob/master/Screenshots/Screenshot1.png?raw=true" style="border-radius: 1rem;" >
+
 </br>
