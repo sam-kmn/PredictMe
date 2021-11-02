@@ -4,7 +4,7 @@ PredictMe is a simple website, predicts 3 things about you, only based on your n
 </br>
 It is one of my first projects I have made.
 </br>
-Written with plain HTML + CSS + JS
+Written in HTML + SCSS + JS
 </br>
 </br>
 <a style="color: #4fad31;" href="https://predict-me-firebase.web.app/">
